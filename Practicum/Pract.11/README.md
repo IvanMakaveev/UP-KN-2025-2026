@@ -5,8 +5,8 @@
    - *new int(4)*
    - *new int[4]*
 - Колко памет се използва от следния израз
-   - **int* ptr = new int(4)**
-   - **int* ptr = new int[4]**
+   - **int* ptr = new int(4)*
+   - **int* ptr = new int[4]*
 
 ## Задачи
 
